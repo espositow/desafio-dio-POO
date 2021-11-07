@@ -1,4 +1,4 @@
-# Desafio POO
+# Desafio - POO
 
 Neste desafio de projeto desenvolvido através do Labs abstraindo um Bootcamp usando orientação a obejtos com java através da [Digital Innovation One](https://www.linkedin.com/school/digitalinnovation-one/) ministrado pela instrutora [Camila Cavalcante](https://www.linkedin.com/in/cami-la/)  nos propocionou repassar os conceitos e práticas de desenvolvimento em Java com a utilização da IDE Intellij  utilizando as ferramentas que o paradigma de orientação a objetos (POO) como Abstração, Encapsulamento, Herança e Polimorfismo.
 
